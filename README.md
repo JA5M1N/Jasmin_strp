@@ -1,1 +1,1 @@
-# Jasmine AIBOS
+# Jasmin AIBOS
